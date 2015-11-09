@@ -13,41 +13,44 @@
 using namespace std;
 
 class City{
-	public:
-		City(string,double,double);
-		string getName();
-                void setName(string inName);
-		double getLongitude();
-		void setLongitude(double newLong);
-		double getLatitude();
-                void setLatitude(double newLat);
-	private:
-		string name;
-		double longitude, latitude;		
+    public:
+        City(string,double,double);
+        string getName();
+        void setName(string inName);
+        double getLongitude();
+        void setLongitude(double newLong);
+        double getLatitude();
+        void setLatitude(double newLat);
+    private:
+        string name;
+        double longitude, latitude;		
 };
 City::City(string inName, double inLong, double inLat){
-	name=inName;
-	longitude=inLong;
-	latitude=inLat;
+    name=inName;
+    longitude=inLong;
+    latitude=inLat;
 }
 string City::getName(){
-	return(name);
+    return(name);
 }
 void City::setName(string inName){
     name=inName;
 }
 double City::getLongitude(){
-	return(longitude);
+    return(longitude);
 }
 void City::setLongitude(double newLong){
-	longitude=newLong;
+    longitude=newLong;
 }
 double City::getLatitude(){
-	return(latitude);
+    return(latitude);
 }
 void City::setLatitude(double newLat){
-	latitude=newLat;
+    latitude=newLat;
+}
+
+bool sortFunc(City &c1, City &c2){  //for sorting the vector by name
+    return(c1.getName()<c2.getName());
 }
 
 #endif	/* CITY_H */
-
