@@ -1,0 +1,30 @@
+London,United Kingdom,51.5,-0.116722
+New York,America,40.75,-73.98
+Oxford,United Kingdom,51.7704,-1.24999
+Amsterdam,Netherlands,52.35,4.91664
+Berlin,Germany,52.5218,13.4015
+Turku,Finland,60.4539,22.255
+Osaka,Japan,34.75,135.46
+Kokkola,Finland,63.8333,23.1167
+Tokyo,Japan,35.685,139.751
+Hiroshima,Japan,34.3878,132.443
+Kyoto,Japan,35.03,135.75
+Troll Station,Antarctica,-72.0163,2.53332
+Dortmund,Germany,51.53,7.45003
+Warsaw,Poland,52.25,21
+Katowice,Poland,50.2604,19.02
+Hwange,Zimbabwe,-18.37,26.5
+Gweru,Zimbabwe,-19.45,29.82
+Hue,Vietnam,16.47,107.58
+Hanoi,Vietnam,21.0333,105.85
+Delhi,India,28.67,77.23
+Puerto Lempira,Honduras,15.262,-83.7716
+Juticalpa,Honduras,14.6704,-86.23
+Selfoss,Iceland,63.9334,-20.9969
+Hofn,Iceland,64.2723,-15.2139
+Nord,Greenland,81.7166,-17.8
+Berekum,Ghana,7.45038,-2.59001
+Winneba,Ghana,5.35043,-0.63005
+Cologne,Germany,50.93,6.95
+Sydney,Australia,-33.92,151.185
+Magong,Taiwan,23.5667,119.583
